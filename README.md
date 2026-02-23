@@ -17,7 +17,7 @@ Outputs:
 - Emission Matrix (B)
 - Initial Distribution (pi)
 
-How to Run
+How to Run (Can be run in VS Code)
 
 1. Install Python 3
 2. Install numpy:
