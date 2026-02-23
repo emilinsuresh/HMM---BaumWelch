@@ -1,9 +1,9 @@
 Hidden Markov Model - Baum Welch Algorithm
 
-Emilin Suresh
+Emilin Suresh, 
 TCR24CS026
 
-Description
+Description - 
 This project implements the Baum–Welch Algorithm (Expectation–Maximization)
 to train a Hidden Markov Model.
 
